@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I’m Joe
 
-<!--
-**9xsys/9xsys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst turned Solidity developer in training. Currently working as a Data Analyst for Google and building smart contracts on Ethereum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m Currently
+- Working as a Data Analyst for Google  
+- Learning Solidity & Ethereum development
+
+---
+
+## 💬 Ask Me About
+
+### Data & Analytics
+- 🐍 Python, pandas, scikit-learn, machine learning  
+- 📊 SQL, data analysis & visualization  
+- 📈 Tableau, KNIME, PostgreSQL
+
+### Solidity & Web3 Development
+- 🔐 Solidity, smart contracts, Ethereum  
+- 🛠 Hardhat, Truffle, Remix  
+- 🌐 Web3.js, MetaMask integration
+
+---
+
+## ⚡ Fun Fact
+When I was a kid, my dad thought his computer was hacked—turns out I’d just disabled his login in safe mode so I could play video games! 🕹
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages:**  
+Python • SQL • Solidity • HTML • CSS • JavaScript  
+
+**Libraries & Frameworks:**  
+pandas • numpy • matplotlib • seaborn • scikit-learn  
+Hardhat • Truffle • Web3.js  
+
+**Tools & Software:**  
+Jupyter • Colab • Anaconda • PostgreSQL • KNIME • Tableau  
+Remix • MetaMask
+
+---
+
+## 📫 Connect with Me
+- [X](https://x.com/9xsys_)  
+- 📧 9xsys.dev@gmail.com  
+
+---
