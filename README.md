@@ -46,6 +46,6 @@ Remix • MetaMask
 
 ## 📫 Connect with Me
 - [X](https://x.com/9xsys_)  
-- 📧 9xsys.dev@gmail.com  
+- [Email me](mailto:9xsys.dev@gmail.com)  
 
 ---
