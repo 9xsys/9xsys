@@ -15,7 +15,7 @@ Business Analyst turned Solidity developer in training. Currently working as a D
 ### Data & Analytics
 - 🐍 Python, pandas, scikit-learn, machine learning  
 - 📊 SQL, data analysis & visualization  
-- 📈 Tableau, KNIME, PostgreSQL
+- 📈 Tableau, KNIME, PostgreSQL, Google Cloud
 
 ### Solidity & Web3 Development
 - 🔐 Solidity, smart contracts, Ethereum  
@@ -46,6 +46,6 @@ Remix • MetaMask
 
 ## 📫 Connect with Me
 - [X](https://x.com/9xsys_)  
-- [Email me](mailto:9xsys.dev@gmail.com)  
+- 9xsys.dev@gmail.com
 
 ---
