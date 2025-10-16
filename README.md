@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Joe
+# Hi there 👋 I’m Jerry
 
 Business Analyst turned Solidity developer in training. Currently working as a Data Analyst for Google and building smart contracts on Ethereum.
 
