@@ -5,7 +5,7 @@ Business Analyst turned Solidity developer in training. Currently working as a D
 ---
 
 ## 🔭 I’m Currently
-- Working as a Data Analyst for Google  
+- Working as a Data Analyst  
 - Learning Solidity & Ethereum development
 
 ---
